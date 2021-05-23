@@ -28,3 +28,6 @@ THEN the saved events persist
 
 ## Screenshots
 
+[!Home](./assets/images/home.png)
+
+[!Notes](./assets/images/notes.png)
