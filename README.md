@@ -1,4 +1,4 @@
-# Third-Party APIs: Workday Scheduler
+# Third-Party APIs: Work Day Scheduler
 
 ## Deployed Site
 https://brettmarkland-sanchez.github.io/bms-wk-5-hw/
