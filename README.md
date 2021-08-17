@@ -1,4 +1,3 @@
-# bms-wk-5-hw
 # Third-Party APIs: Work Day Scheduler
 
 ## Deployed Site
